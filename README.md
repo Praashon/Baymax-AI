@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Inspired by Iron Man's AI assistants
+- Inspired by Big Hero 6 Baymax and Iron Man's AI assistant
 - Built with [LiveKit](https://livekit.io/)
 - Powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
 - Search powered by [DuckDuckGo](https://duckduckgo.com/)
